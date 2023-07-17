@@ -1,3 +1,5 @@
+package Week1;
+
 public class Student {
     int name;
     int age;
