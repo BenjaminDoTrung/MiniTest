@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cdc69d0-e476-4841-962d-82660af8b676" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b654de93-98c0-45c8-a6cb-424e03ec5d62" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="2SbxrZ6MNciuqqnEimqPU0isUtw" />
+  <component name="ProjectId" id="2SgW1KODrYG82tY5Fhg9mWiIwO3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,26 +19,19 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/admin/Desktop/MiniTest",
+    "last_opened_file_path": "C:/Users/admin/Desktop/MiniTest/Minitest1/src/Week2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Week2" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9cdc69d0-e476-4841-962d-82660af8b676" name="Changes" comment="" />
-      <created>1689429281166</created>
+      <changelist id="b654de93-98c0-45c8-a6cb-424e03ec5d62" name="Changes" comment="" />
+      <created>1689568487892</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1689429281166</updated>
-      <workItem from="1689429282142" duration="51000" />
-      <workItem from="1689928117026" duration="15000" />
-      <workItem from="1689928152136" duration="145000" />
+      <updated>1689568487892</updated>
+      <workItem from="1689568488863" duration="18000" />
     </task>
     <servers />
   </component>

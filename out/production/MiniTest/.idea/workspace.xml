@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cdc69d0-e476-4841-962d-82660af8b676" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week2/FictionBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/ProgrammingBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/TestBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoNguyenTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/SoNguyenTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaoMang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/TaoMang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TongphanTuTrongMnag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/TongphanTuTrongMnag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -32,6 +32,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Week2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1689429281166</updated>
       <workItem from="1689429282142" duration="51000" />
+      <workItem from="1689928117026" duration="15000" />
+      <workItem from="1689928152136" duration="145000" />
     </task>
     <servers />
   </component>
